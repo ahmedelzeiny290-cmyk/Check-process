@@ -1,1 +1,3 @@
-streamlit و pandas و openpyxl).
+streamlit
+pandas
+openpyxl
